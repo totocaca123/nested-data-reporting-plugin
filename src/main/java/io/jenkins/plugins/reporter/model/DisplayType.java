@@ -6,3 +6,10 @@ public enum DisplayType {
     RELATIVE,
     DUAL;
 }
+
+public enum ColorPalette {
+    
+    RANDOM,
+    ECHART,
+    DUAL;
+}
